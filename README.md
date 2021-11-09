@@ -1,4 +1,5 @@
 # ebook to book
-Telegram: [@Skybooks_ir](https://t.me/skybooks_ir)
+Telegram channel: [@Skybooks_it](https://t.me/skybooks_it)
+Telegram admin  : [@Skybooks_ir](https://t.me/skybooks_ir)
 
 https://ebook2book.ir/
