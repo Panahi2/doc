@@ -21,6 +21,7 @@ dtoverlay=i2c-rtc,ds3231
 - i2cdetect -l
 - i2cdetect -y 1
 - sudo apt-get install --download-only --reinstall i2c-tools
+- `sudo raspi-config`  > Localization Options > Change Time Zone > None Of The Above > UTC
 
 - 
 ```
