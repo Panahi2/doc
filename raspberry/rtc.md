@@ -20,6 +20,8 @@ dtoverlay=i2c-rtc,ds3231
 - sudo apt-get install -y i2c-tools
 - i2cdetect -l
 - i2cdetect -y 1
+- sudo apt-get install --download-only --reinstall i2c-tools
+
 - 
 ```
 apt-get remove --purge fake-hwclock
