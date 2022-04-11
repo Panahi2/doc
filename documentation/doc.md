@@ -5,6 +5,9 @@ https://www.mathieupassenaud.fr/markdown-pdf/
 
 https://stackoverflow.com/questions/2188884/how-can-i-mix-latex-in-with-
 
+markdown to pdf gitlab ci  
+https://www.mathieupassenaud.fr/markdown-pdf/
+
 docfx  
 https://dotnet.github.io/docfx/
 
