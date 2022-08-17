@@ -1,6 +1,8 @@
 # Questions
 - 1: `Virtual ~class() = delete`
 - 2: `Auto Const` VS `Const Auto`?
+- 3: Pointer VS Refrance
+- 4: QWidget VS QDockWidget
 
 # Learn
 - operator
