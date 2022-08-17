@@ -1,0 +1,3 @@
+- Run Unit Test
+- Run build
+- 
