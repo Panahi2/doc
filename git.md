@@ -1,6 +1,7 @@
-@ Gitlab
+# Gitlab
 - Run Unit Test
 - Run build
 
-- تغییر آدرس Submodule در git  
-`git mv old/submod new/submod`
+# Git
+- change address Submodule in git: `git mv old/submod new/submod`
+- stage diff: `git diff --cached`
