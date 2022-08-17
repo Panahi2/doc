@@ -10,6 +10,8 @@
 - integration test
 - system test
 - benchmark
+- 
+- Qt Network programing
 
 # Book
 - 10 best C and C++ Books for Beginers & Advanced programers
