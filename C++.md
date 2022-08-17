@@ -11,7 +11,7 @@
 - system test
 - benchmark
 - 
-- Qt Network programing
+
 
 # Book
 - 10 best C and C++ Books for Beginers & Advanced programers
@@ -19,3 +19,9 @@
 
 # QT
 - https://qt.awesome-programming.com/
+- Qt Network programing
+
+# Network
+- UDP: قابلیت اطمینان مهم نباشد
+  - ‌Broadcast
+  - Multicast
