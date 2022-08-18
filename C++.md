@@ -4,6 +4,9 @@
 - 3: Pointer VS Refrance
 - 4: QWidget VS QDockWidget
 
+# RValue
+- A Brief introduction to RValue refrence: https://www.artima.com/articles/a-brief-introduction-to-rvalue-references
+
 # Learn
 - operator
 - Template
