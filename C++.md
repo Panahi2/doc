@@ -3,6 +3,9 @@
 - 2: `Auto Const` VS `Const Auto`?
 - 3: Pointer VS Refrance
 - 4: QWidget VS QDockWidget
+- https://stackoverflow.com/questions/1143262/what-is-the-difference-between-const-int-const-int-const-and-int-const
+- http://c-faq.com/decl/spiral.anderson.html
+- https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
 
 # RValue
 - A Brief introduction to RValue refrence: https://www.artima.com/articles/a-brief-introduction-to-rvalue-references
