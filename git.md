@@ -14,6 +14,7 @@ git branch
 - remove submodule: `git rm <path-to-submodule>`
 - show which specific files are ignored by .gitignore: `git status --ignored`
 - Force add despite the .gitignore file: `git add --force my/ignore/file.foo`
+- when use submodule: https://www.atlassian.com/git/articles/core-concept-workflows-and-tips
 
 
 # Add Remote
