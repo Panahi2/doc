@@ -1,3 +1,9 @@
+# قبل از هز کاری چک شود
+```
+git pull
+git branch
+```
+
 # Gitlab
 - Run Unit Test
 - Run build
