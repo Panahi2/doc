@@ -18,7 +18,9 @@
 - integration test
 - system test
 - benchmark
-- 
+- https://www.qt.io/blog/2009/08/25/count-with-me-how-many-smart-pointer-classes-does-qt-have
+- https://community.kde.org/Policies/Binary_Compatibility_Issues_With_C%2B%2B
+- https://c-const--const-23.peatix.com/#
 
 
 # Book
