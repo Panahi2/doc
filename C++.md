@@ -35,3 +35,9 @@
 - UDP: قابلیت اطمینان مهم نباشد
   - ‌Broadcast
   - Multicast
+
+#Compiler
+- How to generate preprocess and assmeble code by cmake? https://stackoverflow.com/questions/70416911
+```
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -save-temps=obj")
+```
