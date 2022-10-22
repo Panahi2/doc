@@ -24,6 +24,6 @@ Qt 6.4.0
     Qt State Machine
   Qt Quick Timeline
 Developer and Designer Tools
-CMake 3.23.2
-Ninja 1.10.2
+  CMake 3.23.2
+  Ninja 1.10.2
 ```
