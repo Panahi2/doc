@@ -1,4 +1,6 @@
 # install qt 6.4
+- https://doc.qt.io/qt-6/linux.html
+- https://wiki.qt.io/Install_Qt_5_on_Ubuntu
 - sudo apt update
 - sudo apt install build-essential
 - sudo apt install libgl-dev
