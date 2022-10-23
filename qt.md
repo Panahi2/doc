@@ -29,3 +29,6 @@ Developer and Designer Tools
   CMake 3.23.2
   Ninja 1.10.2
 ```
+
+# Porting to qt 6
+- https://doc.qt.io/qt-6/portingguide.html
