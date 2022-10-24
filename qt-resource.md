@@ -1,1 +1,2 @@
 - https://stackoverflow.com/questions/4319792/how-to-initialize-qt-resources-from-a-shared-library
+- https://stackoverflow.com/questions/5097087/trouble-loading-qt-ui-with-images-from-plugin-so
