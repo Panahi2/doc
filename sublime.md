@@ -1,0 +1,1 @@
+- hex viewer: https://superuser.com/questions/1205975/can-sublime-text-be-used-as-hex-editor
