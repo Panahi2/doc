@@ -36,7 +36,16 @@ sudo apt-get dist-upgrade
 sudo cp ~/off/pack/* /var/cache/apt/archives/
 sudo apt install smbclient
 ```
-
+# View list shared folders
+#### NOTE: Replace ALL `[xxxxx]`
+1. List shared folders
+```
+smbclient -L //192.168.1.1 -U [DOMAIN]/[username]
+```
+2. go to share folder
+```
+smbclient //192.168.1.1/[folder name] -U [DOMAIN]/[username]
+```
 
 
 # Run only the Linux kernel and user programs
