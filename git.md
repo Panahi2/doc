@@ -47,3 +47,21 @@ git remote -v
 git push --set-upstream origin master
 git branch -m main // Rename branch master to main
 ```
+
+# Uncommited changes into another branch
+- git stash
+- git checkout branch2
+- git stash pop
+
+# حذف ‌branch از remote
+- git push origin --delete branch
+
+# Merge Branches
+merge branch2 to branch1
+- git merge --no-ff branche2
+
+# Submodule
+- git submodule update --init --recursive
+- git pull --recursive
+- git submodule foreach --recursive git fetch
+- git submodule foreach git merge origin master
