@@ -12,7 +12,7 @@ sudo apt clean // clear content of folder above
 sudo apt install --download-only meld // download packge to folder above
 sudo dpkg -i meld // install package
 ```
-### Install Offline package `NEW`
+# Install Offline package `NEW`
 we have two pc: `online` and `offline`
 1. copy packages list in `online`
 ```
@@ -30,6 +30,7 @@ sudo cp /var/cache/apt/archives/*.deb ~/off/pack
 cp ~/off/list/* /var/lib/apt/lists/
 sudo apt-get dist-upgrade
 ```
+#### NOTE: in command `dist-upgrade` select `n` to cancel command, this command update packge list!!!
 4. install package in `offline`
 ```
 sudo cp ~/off/pack/* /var/cache/apt/archives/
