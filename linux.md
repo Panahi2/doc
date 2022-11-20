@@ -1,6 +1,8 @@
 # Usful Commands
 `apt show package-name` -> show information and description :)
 
+---
+
 - sudo apt install apt-rdepends
 
 # نصب پکیج آفلاین
