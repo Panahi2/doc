@@ -7,6 +7,32 @@ sudo apt clean // clear content of folder above
 sudo apt install --download-only meld // download packge to folder above
 sudo dpkg -i meld // install package
 ```
+### Install Offline package `NEW`
+we have two pc: `online` and `offline`
+1. copy packages list in `online`
+```
+sudo apt update
+cp /var/lib/apt/lists/* ~/off/list
+```
+2. download package in `online`
+```
+sudo apt install --download-only smbclient
+ls /var/cache/apt/archives/
+sudo cp /var/cache/apt/archives/*.deb ~/off/pack
+```
+3. update package list `offline`
+```
+cp ~/off/list/* /var/lib/apt/lists/
+sudo apt-get dist-upgrade
+```
+4. install package in `offline`
+```
+sudo cp ~/off/pack/* /var/cache/apt/archives/
+sudo apt install smbclient
+```
+
+
+
 # Run only the Linux kernel and user programs
 https://unix.stackexchange.com/questions/175386/run-only-the-linux-kernel-and-user-programs
 
