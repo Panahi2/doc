@@ -32,3 +32,8 @@ http://stackoverflow.com/questions/6947413/how-to-open-read-and-write-from-seria
 http://www.unixwiz.net/techtips/termios-vmin-vtime.html
 
 http://www.comptechdoc.org/os/linux/programming/c/linux_pgcserial.html
+
+# Share folder
+- command line: smbclient: https://www.chrisrmiller.com/mount-samba-share-in-ubuntu/
+- working with smbclient: https://www.computerhope.com/issues/ch001636.htm
+- mount: cifs: https://www.ceos3c.com/linux/mount-cifs-permission-denied-linux/
