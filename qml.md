@@ -30,3 +30,14 @@ layout.aligment: Qt.AlignTop
 - - [min, max] -> width, height
 - - implicit [min, max] -> width, height
 - preference تقدم اولویت
+
+
+### 19 Sizing Components
+### 17 Custom Components
+### 8 Item Transformations
+### 9 Custom Transformations
+### 40 Signal or Method
+- Function priorites
+- Macro
+- Functor , Lambda
+### 38 to 43
