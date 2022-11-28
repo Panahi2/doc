@@ -4,6 +4,14 @@
 - برای تغییر style همه فرم ها باید مجددا طراحی شوند.
 - با یک style باید UI Kit طراحی شود و از UI Kit استفاده شود.
 - اگر از UI Kit استفاده شود، نیازی به طراحی مجدد همه فرم ها برای style جدید نیست و با style جدید فقط باید UI Kit طراحی شود، چون در همه فرم ها از کامپوننت های UI Kit استفاده شده است.
+- تغببر UI Kit در Qml به یکی از روش های زیر امکان پذیر است:
+- - استفاده از Loader : یک متغییر را چک کند اگر مساوی UI Kit بود کامپوننت آن را لود کند
+- - فقط پوشه UI Kit مورد نظر در Resource قرار بگیرد
+- - روش دوم بصورت runtime : در لینک دوم زیر 
+
+### Links
+- https://wiki.qt.io/Qml_Styling
+- https://stackoverflow.com/questions/36335481/dynamically-change-qml-theme-at-runtime
 
 # Kdab Introduction to Qt/Qml
 ### 37 Layouts
