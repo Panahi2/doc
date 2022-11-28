@@ -1,3 +1,10 @@
+# Qml Style and theme
+- ققط می توان از یک style استفاده کرد.
+- در یک style می توان theme آن را تغییر داد. [Light, Dark]
+- برای تغییر style همه فرم ها باید مجددا طراحی شوند.
+- با یک style باید UI Kit طراحی شود و از UI Kit استفاده شود.
+- اگر از UI Kit استفاده شود، نیازی به طراحی مجدد همه فرم ها برای style جدید نیست و با style جدید فقط باید UI Kit طراحی شود، چون در همه فرم ها از کامپوننت های UI Kit استفاده شده است.
+
 # Kdab Introduction to Qt/Qml
 ### 37 Layouts
 - x, y
