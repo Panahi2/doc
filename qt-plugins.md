@@ -1,2 +1,3 @@
 - https://github.com/chaunnt/QtWithQMLPluginProjects/tree/master
 - https://stackoverflow.com/questions/57092615/how-to-make-qt-plugin-project-inside-a-qt-app-project
+- [Creating Qt SDK](https://doc.qt.io/QtAutomotiveSuite-5.12/qtas-sdk-creation.html)
